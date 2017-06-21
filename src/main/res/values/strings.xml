@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Calorie Converter</string>
+    <string name="main_menu">Calorie Converter</string>
+    <string name="simple_button">Workout to Calorie</string>
+    <string name="backToMain">Back to Main Menu</string>
+    <string name="Reps">Reps</string>
+    <string name="Mins">Minutes</string>
+    <string name="Calories">Calories</string>
+    <string name="select_calories">Calorie to Workout</string>
+    <string name="format" formatted="false">%1$s \n %2$.2f %3$s</string>
+    <string name="pushup">Pushup</string>
+    <string name="situp">Situp</string>
+    <string name="squat">Squat</string>
+    <string name="leglift">Leg-Lift</string>
+    <string name="plank">Plank</string>
+    <string name="jumpjack">Jumping Jack</string>
+    <string name="pullup">Pullup</string>
+    <string name="cycling">Cycling</string>
+    <string name="walk">Walking</string>
+    <string name="jog">Jogging</string>
+    <string name="swim">Swimming</string>
+    <string name="stair">Stair-climbing</string>
+    <string-array name="workout_spinner_string">
+        <item>PUSHUP</item>
+        <item>SITUP</item>
+        <item>SQUATS</item>
+        <item>LEG-LIFT</item>
+        <item>PLANK</item>
+        <item>JUMPING JACKS</item>
+        <item>PULLUP</item>
+        <item>CYCLING</item>
+        <item>WALKING</item>
+        <item>JOGGING</item>
+        <item>SWIMMING</item>
+        <item>STAIR-CLIMBING</item>
+    </string-array>
+</resources>
