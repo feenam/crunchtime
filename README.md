@@ -1,1 +1,2 @@
-# crunchtime
+# Crunch Time
+Crunch Time is an Android application which, given an input of the type and amount of exercise, you’ll be able to see how many calories you’ve burned as well as the equivalent amount of another type of exercise.
